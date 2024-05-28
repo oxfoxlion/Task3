@@ -1,0 +1,80 @@
+author: SHAO
+description: Shao's Blog
+keyword: 簡單,分享,啟發,思考,學習,閱讀
+
+excerpt_link: Read more
+
+menu:
+ Home: /
+ Archives: /archives/
+ tags: /tags/
+ Projects: /project/
+ About: /about/
+
+# highlight
+highlight:
+  tomorrow
+
+# catalog
+catalog: true
+
+# donate
+donate: true
+
+# qrcode
+qrcode: true
+
+# comment
+# you can set utterances, gitment, uyan or disqus
+comment: utterances
+
+# utterances config
+utterances_repo:                # e.g. GitHubAccount/RepoForUtterances
+utterances_issue_term: pathname # you can see other available options at 'https://utteranc.es/'
+utterances_theme: github-light  # you can see other available options at 'https://utteranc.es/'
+
+# gitment config
+gitment_owner: yanm1ng
+gitment_repo: yanm1ng.github.io
+gitment_oauth_id: 0f87e490e00ee3fd87ef
+gitment_oauth_secret: 4a9d2b148e7971c2201ad12131ce8bf8159ccd2e
+
+# uyan config
+# if you want to use uyan as your blog comment, plz remove/comment out gitment config
+baidu_id: 
+google_analytics: 
+# disqus config
+disqus_shortname: 
+
+about: 
+  banner: ""
+  avatar: https://instantcheeseshao.com/wp-content/uploads/2024/05/6F67FBB0-D75E-4A6B-87CB-EDF03C91CD46.jpg
+  description: "高雄人，目前持續著北漂生活。為了追求理想中的生活型態(生存模式)而努力著。"
+  weibo_username: 
+  twitter_username: 
+  github_username: oxfoxlion
+  zhihu_username: 
+  douban_username: 
+  linkedin_username: 
+
+# MathJax Support
+mathjax:
+  enable: true
+  per_page: false
+  cdn: //cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+
+# Local Search Support
+local_search:
+  enable: true
+
+# China Registration
+# e.g. 京ICP备12345678号-1
+icp:
+  enable: false
+  number: 京ICP备12345678号-1 # e.g. 京ICP备12345678号-1
+# e.g. 京公网安备 12345678901234号
+ga:
+  enable: false
+  province: 京           # e.g. 京
+  number: 12345678901234 # e.g. 12345678901234
+
